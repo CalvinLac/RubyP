@@ -1,2 +1,1 @@
-$echo hello world
-HELLLLLOOO
+Hello, I am boi
